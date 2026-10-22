@@ -83,7 +83,7 @@
 
 <p align="center">
   <a href="https://github.com/Jiboyu78"><img src="https://img.shields.io/badge/GitHub-Jiboyu78-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://space.bilibili.com/520199599"><img src="https://img.shields.io/badge/Bilibili-520199599-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
+  <a href="https://space.bilibili.com/2127746847"><img src="https://img.shields.io/badge/Bilibili-2127746847-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
   <a href="https://jiboyu78.github.io/SurviveLNSY/"><img src="https://img.shields.io/badge/Docs-生存指南-646CFF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs"/></a>
 </p>
 
