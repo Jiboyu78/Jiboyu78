@@ -1,11 +1,9 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&width=600&lines=\
-      +Jiboyu78;\
-      +信息学 / 数学建模 / 软件开发;\
-      +Building+Things+That+Work"
-      alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner.svg">
+    <img src="./assets/banner.svg" width="600" alt="Jiboyu78 · 信息学 / 数学建模 / 软件开发" />
+  </picture>
 </p>
 
 <h1 align="center">Hi, I'm Jiboyu78 👋</h1>
@@ -22,12 +20,13 @@
 
 ## 📖 目录
 
-- [🔭 关于我](#关于我)
-- [🛠️ 技术栈](#技术栈)
-- [🚀 精选项目](#精选项目)
-- [📊 数据统计](#数据统计)
-- [📬 联系方式](#联系方式)
+- [🔭 关于我](#about)
+- [🛠️ 技术栈](#stack)
+- [🚀 精选项目](#projects)
+- [📊 数据统计](#stats)
+- [📬 联系方式](#contact)
 
+<a id="about"></a>
 ## 🔭 关于我
 
 - 🎓 **辽宁省实验中学** · LNSY 极维电脑社
@@ -37,6 +36,7 @@
 - ⚡ **喜欢**：把「看起来只能手工做的事」变成一条能自动跑通的流水线
 - 📫 **交流**：Issue、讨论区都欢迎
 
+<a id="stack"></a>
 ## 🛠️ 技术栈
 
 <p align="center">
@@ -53,6 +53,7 @@
 
 </details>
 
+<a id="projects"></a>
 ## 🚀 精选项目
 
 | 项目 | 简介 | 技术栈 | 链接 |
@@ -69,6 +70,7 @@
 
 </details>
 
+<a id="stats"></a>
 ## 📊 数据统计
 
 <p align="center">
@@ -76,6 +78,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiboyu78&layout=compact&theme=default&hide_border=true" alt="Jiboyu78 的语言占比"/>
 </p>
 
+<a id="contact"></a>
 ## 📬 联系方式
 
 <p align="center">
