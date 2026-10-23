@@ -8,8 +8,8 @@
 
 <h1 align="center">Hi, I'm Jiboyu78 👋</h1>
 <p align="center">
-  辽宁省实验中学 · 极维组织群主<br>
-  信息学 / 数学建模 / 软件开发 ｜ C++ · Python
+  辽宁省实验中学 · LNSY 极维电脑社<br>
+  信息学 / 数学建模 / 软件开发 ｜ C++ · Python · HTML
 </p>
 
 <p align="center">
@@ -29,9 +29,9 @@
 <a id="about"></a>
 ## 🔭 关于我
 
-- 🎓 **辽宁省实验中学** · 高二在读
-- 🔭 **在做**：信息学竞赛、数学建模、科研尝试、软件开发
-- 🧠 **研究兴趣**：开源 VLM 的训练与微调方法论
+- 🎓 **辽宁省实验中学** · LNSY 极维电脑社
+- 🔭 **在做**：信息学竞赛、数学建模与软件开发
+- 🧠 **研究兴趣**：中文视觉谐音梗的多模态理解 —— 不自研模型，只做开源 VLM 的训练与微调方法论
 - 🛠️ **写的东西**：AI 数据集生产流水线、macOS 桌面工具、内容文档站
 - ⚡ **喜欢**：把「看起来只能手工做的事」变成一条能自动跑通的流水线
 - 📫 **交流**：Issue、讨论区都欢迎
@@ -40,7 +40,7 @@
 ## 🛠️ 技术栈
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,cmake,ffmpeg,linux,bash,docker,sqlite&perline=7" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,cmake,linux,bash,sqlite,vscode,markdown,ubuntu&perline=6" alt="Tech Stack"/>
 </p>
 
 <details>
@@ -48,8 +48,11 @@
 
 **主力语言**：C++ · Python · HTML
 **数据与 AI**：LLM 推理调用 · 文生图模型 · 数据集自动质检 Pipeline
-**工程化**：Git · GitHub Actions · CMake · FFmpeg / gifski · Docker
-**环境**：Linux · Bash · SQLite
+**工程化**：Git · GitHub Actions · CMake · SQLite
+**编辑器与终端**：VS Code · Nano
+**系统与虚拟化**：Ubuntu · CachyOS · VMware
+**格式与规范**：Markdown · JSON · CSV
+**架构与平台**：LoongISA（LoongArch 龙芯指令集）
 
 </details>
 
