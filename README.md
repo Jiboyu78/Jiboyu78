@@ -43,6 +43,14 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,cmake,linux,bash,sqlite,vscode,markdown,ubuntu&perline=6" alt="Tech Stack"/>
 </p>
 
+<p align="center">
+  <a href="https://openai.com/codex/"><img src="./assets/badges/b_codex.svg" height="28" alt="Codex · OpenAI"/></a>
+  <a href="https://www.vmware.com/"><img src="./assets/badges/b_vmware.svg" height="28" alt="VMware Workstation"/></a>
+  <a href="https://www.nano-editor.org/"><img src="./assets/badges/b_nano.svg" height="28" alt="Nano Editor"/></a>
+  <a href="https://cachyos.org/"><img src="./assets/badges/b_cachyos.svg" height="28" alt="CachyOS"/></a>
+  <a href="https://loongson.cn/"><img src="./assets/badges/b_loongisa.svg" height="28" alt="LoongISA · LoongArch 龙芯"/></a>
+</p>
+
 <details>
 <summary><b>🔧 展开完整工具链</b></summary>
 
@@ -50,6 +58,7 @@
 **数据与 AI**：LLM 推理调用 · 文生图模型 · 数据集自动质检 Pipeline
 **工程化**：Git · GitHub Actions · CMake · SQLite
 **编辑器与终端**：VS Code · Nano
+**AI 编程助手**：Codex
 **系统与虚拟化**：Ubuntu · CachyOS · VMware
 **格式与规范**：Markdown · JSON · CSV
 **架构与平台**：LoongISA（LoongArch 龙芯指令集）
